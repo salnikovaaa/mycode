@@ -1,0 +1,50 @@
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.exe
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.deps.json
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.json
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csprojAssemblyReference.cache
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Properties.Resources.resources
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.exe
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.deps.json
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.json
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csprojAssemblyReference.cache
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Properties.Resources.resources
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Ирина\source\repos\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form2.resources
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.exe
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.deps.json
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.json
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csprojAssemblyReference.cache
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form2.resources
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Properties.Resources.resources
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.dll
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.pdb
+C:\Users\Ирина\Desktop\собес\Виселица с WinForms\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.genruntimeconfig.cache
